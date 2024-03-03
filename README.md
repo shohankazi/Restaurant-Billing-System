@@ -39,7 +39,7 @@ Stay tuned for upcoming features! Your feedback and suggestions are highly appre
 
 Let's collaborate! Feel free to reach out for demos or share your thoughts.
 
-- [(https://github.com/shohankazi/Restaurant-Billing-System)]
+- Github: [(https://github.com/shohankazi/Restaurant-Billing-System)]
 - LinkedIn: [https://www.linkedin.com/in/shohan-kazi]
 
 Thank you for checking out the Simple Restaurant Billing System!
